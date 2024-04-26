@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: com.kavin.AppTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 57.283 s <<< FAILURE! - in com.kavin.AppTest
+testIxigoWebsite(com.kavin.AppTest)  Time elapsed: 44.733 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.kavin.AppTest$$Lambda/0x000001581038ab20@10c07b8d (tried for 30 second(s) with 500 milliseconds interval)
+	at com.kavin.AppTest.testIxigoWebsite(AppTest.java:170)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"[aria-label="30 April 2024"]"}
+  (Session info: chrome=124.0.6367.63)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [433cc33e97c076c182cd456ff2ef7cf5, findElement {using=css selector, value=[aria-label="30 April 2024"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.63, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\skavi\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53585}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53585/devtoo..., se:cdpVersion: 124.0.6367.63, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 433cc33e97c076c182cd456ff2ef7cf5
+	at com.kavin.AppTest.lambda$9(AppTest.java:170)
+	at com.kavin.AppTest.testIxigoWebsite(AppTest.java:170)
+
+testAboutUs(com.kavin.AppTest)  Time elapsed: 7.149 s  <<< FAILURE!
+org.openqa.selenium.WebDriverException: 
+Remote browser did not respond to getCurrentUrl
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: driver.version: RemoteWebDriver
+	at com.kavin.AppTest.testAboutUs(AppTest.java:262)
+

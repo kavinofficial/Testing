@@ -1,0 +1,59 @@
+02 May 2024 11:14:09 DEBUG: Parsing relationship: /xl/_rels/workbook.xml.rels
+02 May 2024 11:14:09 DEBUG: Parsing relationship: /_rels/.rels
+02 May 2024 11:14:09 TRACE: Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+02 May 2024 11:14:09 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+02 May 2024 11:14:09 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+02 May 2024 11:14:09 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+02 May 2024 11:14:09 TRACE: Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+02 May 2024 11:14:09 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+02 May 2024 11:14:09 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+02 May 2024 11:14:09 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+02 May 2024 11:14:09 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+02 May 2024 11:14:09 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+02 May 2024 11:14:09 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+02 May 2024 11:14:09 TRACE: Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+02 May 2024 11:14:09 TRACE: Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+02 May 2024 11:14:09 TRACE: Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+02 May 2024 11:14:09 TRACE: Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+02 May 2024 11:14:09 TRACE: Resolving type for handle themefd26doctype
+02 May 2024 11:14:09 TRACE: Resolving type for handle stylesheet5d8bdoctype
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctstylesheet4257type
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctfonts6623type
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctfont14d8type
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctfills2c6ftype
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctfill550ctype
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctborders0d66type
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctborderf935type
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctcellxfs1322type
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctxf97f7type
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctcellstylexfsa81ftype
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctdxfsb26atype
+02 May 2024 11:14:09 TRACE: Resolving type for handle cttablestyles872ftype
+02 May 2024 11:14:09 TRACE: Resolving type for handle sstf81fdoctype
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctsst44f3type
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctrsta472type
+02 May 2024 11:14:09 TRACE: Resolving type for handle workbookec17doctype
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctworkbook83c3type
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctsheets49fdtype
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctsheet4dbetype
+02 May 2024 11:14:09 TRACE: Resolving type for handle strelationshipid1e94type
+02 May 2024 11:14:09 TRACE: Resolving type for handle worksheetf539doctype
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctworksheet530dtype
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctcols627ctype
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctcola95ftype
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctsheetdata8408type
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctrowdd39type
+02 May 2024 11:14:09 TRACE: Resolving type for handle ctcell842btype
+02 May 2024 11:14:09 TRACE: Resolving type for handle stcellrefe4e0type
+02 May 2024 11:14:09 TRACE: Resolving type for handle stcelltypebf95type
+02 May 2024 11:14:10 TRACE: Resolving type for handle stxstringf179type
+02 May 2024 11:14:10 INFO : Values extracted from excel sheet successfully
+02 May 2024 11:14:14 INFO : Url opened successfully
+02 May 2024 11:14:17 INFO : Data entered into the location input field
+02 May 2024 11:14:20 INFO : Location search successfull
+02 May 2024 11:14:23 INFO : Far and East hotel clicked
+02 May 2024 11:14:25 INFO : Screenshot took successfully
+02 May 2024 11:14:25 INFO : Tab switch was successfull
+02 May 2024 11:14:30 INFO : Number of people was selected
+02 May 2024 11:14:40 INFO : Date and time was selected
+02 May 2024 11:14:45 INFO : Sign in button clicked
